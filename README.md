@@ -6,5 +6,5 @@
 - service worker를 통한 PWA
 <div>
   <img src="https://user-images.githubusercontent.com/20849970/198413285-5c82678b-70f9-4672-bde3-5bbf7e103db8.png" width="350"/>
-  <img src="https://user-images.githubusercontent.com/20849970/198413293-06af4140-ae0e-4ad0-b5c3-03f52f85a217.png" width="450"/>
+  <img src="https://user-images.githubusercontent.com/20849970/198413408-69dcfc26-3af3-4253-abf2-f7b34bd3ab7b.png" width="450"/>
 </div>
