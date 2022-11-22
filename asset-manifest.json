@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pwa_weather_reactjs/static/css/main.3d7d50a1.css",
+    "main.js": "/pwa_weather_reactjs/static/js/main.2435dfeb.js",
+    "index.html": "/pwa_weather_reactjs/index.html",
+    "main.3d7d50a1.css.map": "/pwa_weather_reactjs/static/css/main.3d7d50a1.css.map",
+    "main.2435dfeb.js.map": "/pwa_weather_reactjs/static/js/main.2435dfeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d7d50a1.css",
+    "static/js/main.2435dfeb.js"
+  ]
+}
