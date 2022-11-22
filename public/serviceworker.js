@@ -6,7 +6,7 @@ const self = this;
 
 //install sw
 self.addEventListener('install', (event) => {
-    event.wailUntil(
+    event.waitUntil(
         caches.open(CACHE_NAME)
             .then((cache)=>{
                 console.log('open cache');
